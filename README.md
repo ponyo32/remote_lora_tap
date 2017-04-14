@@ -1,2 +1,2 @@
 # remote_lora_tap
-remote controlled water tap using LoRa
+remotely controlled water tap using LoRa
